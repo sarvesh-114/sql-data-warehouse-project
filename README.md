@@ -113,7 +113,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 **Analytical and detail-oriented Data Analyst with hands-on experience in Power BI, Excel (Pivot Tables, Power Query), SQL, and database management. Experienced in creating dashboards, digital tools, and impactful presentations to communicate sustainability performance. Collaborative and curious, with a passion for data-driven insights, and continuous process improvement.**
 
-**Email**: sarveshjathar448@gmail.com
-**LinkedIn**: https://www.linkedin.com/in/sarvesh-jathar-04947b314/
-**GitHub**: https://github.com/sarvesh-114
-**Portfolio**: https://sarveshjathar.netlify.app/
+- **Email**: sarveshjathar448@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/sarvesh-jathar-04947b314/
+- **GitHub**: https://github.com/sarvesh-114
+- **Portfolio**: https://sarveshjathar.netlify.app/
